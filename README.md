@@ -80,9 +80,9 @@ The **Logistic Regression** model achieved an **85% accuracy**, showing strong p
 ```
 📦 ML_Project_Heart_Disease_Prediction
 │
-├── Heart_Disease_Prediction.ipynb  # Complete Jupyter Notebook implementation
-├── heart_disease_data.csv # Dataset used for training and testing
-└── README.md # Project documentation
+├── Heart_Disease_Prediction.ipynb                                           # Complete Jupyter Notebook implementation
+├── heart_disease_data.csv                                                   # Dataset used for training and testing
+└── README.md                                                                # Project documentation
 ```
 
 ---
