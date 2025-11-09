@@ -111,11 +111,11 @@ The **Logistic Regression** model achieved an **85% accuracy**, showing strong p
 
 ## 📈 Future Improvements
 
-Integrate GridSearchCV for hyperparameter tuning
+* Integrate GridSearchCV for hyperparameter tuning
 
-Develop a Streamlit web app for real-time prediction and user input
+* Develop a Streamlit web app for real-time prediction and user input
 
-Compare results with other models like Random Forest, SVM, and XGBoost
+* Compare results with other models like Random Forest, SVM, and XGBoost
 
 ---
 
